@@ -1,2 +1,2 @@
 #!/bin/bash
-script to print absolute current directory
+to display the content list of current directory
