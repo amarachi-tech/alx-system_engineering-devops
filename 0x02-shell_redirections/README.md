@@ -1,1 +1,1 @@
-putting standard outpu, input and special character into practice
+to display a file
