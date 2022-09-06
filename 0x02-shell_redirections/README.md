@@ -1,1 +1,1 @@
-to display third line of a file
+7 file
