@@ -1,1 +1,1 @@
-i prefer the first lines
+to display third line of a file
