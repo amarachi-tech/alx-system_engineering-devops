@@ -1,1 +1,1 @@
-count number of subdirectories in  current directories
+Display 10 newest files in current directory
