@@ -1,1 +1,1 @@
-save current state of director
+script to duplicate line
