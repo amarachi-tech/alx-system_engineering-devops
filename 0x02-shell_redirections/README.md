@@ -1,1 +1,1 @@
-number of lines that contains the pattern "bin" in /erc/passwd
+displaying lines with "root" and 3 other next lines
