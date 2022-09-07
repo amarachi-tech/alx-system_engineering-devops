@@ -1,1 +1,1 @@
-Display 10 newest files in current directory
+script that takes list of words and prints only unique words
