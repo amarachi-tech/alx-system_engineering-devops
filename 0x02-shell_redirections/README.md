@@ -1,1 +1,1 @@
-script that takes list of words and prints only unique words
+Displaying lines that contains root: pattern
