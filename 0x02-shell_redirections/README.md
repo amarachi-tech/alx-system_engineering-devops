@@ -1,1 +1,1 @@
-displaying all lines of file
+replacing characters Ac from input Ze
