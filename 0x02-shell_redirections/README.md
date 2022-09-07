@@ -1,1 +1,1 @@
-no more javascript
+count number of subdirectories in  current directories
