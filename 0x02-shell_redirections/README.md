@@ -1,1 +1,1 @@
-script to duplicate line
+no more javascript
